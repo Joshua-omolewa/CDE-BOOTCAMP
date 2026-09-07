@@ -23,7 +23,7 @@ Image Summary
 - The VPC has `2` Subnets
   - Subnet-A has a CIDR Range 10.0.0.0/32 which has `4` IPs.
   - Subnet-B has a CIDR Range 10.0.0.0/32 which has `8` IPs.
-  - Use this [tool](https://www.zerobounce.net/ip-range-cidr-converter/) to convert a range of IPs to CIDR Range 
+  - Use this [tool](https://www.ipaddressguide.com/cidr#:~:text=Calculate-,IP%20Range%20To%20CIDR,-Result) to convert a range of IPs to CIDR Range 
 - The VPC has `4` more IPs not allocated to any Subnet.
 
 ### BENEFITS OF SUBNETS
